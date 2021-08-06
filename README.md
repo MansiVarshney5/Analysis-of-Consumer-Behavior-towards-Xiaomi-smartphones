@@ -13,3 +13,4 @@ information of the users.
 - Interpreted the research questions through **Null hypothesis** and **p- value**     
 
 **The SPSS analysis gathered useful insights in deciding target market to attract specific customers**
+
